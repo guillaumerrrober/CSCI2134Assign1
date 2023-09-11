@@ -2,7 +2,7 @@
  *CSCI 2134 - Assignment1,
  * @author: Guillaume Robert, B00908938
  * @description: Salary Calculation
- * Understanding the basic of Git and Intellij
+ * Understanding the basic of Git
  **/
 
 public class Hello {
